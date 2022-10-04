@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
 import 'package:flutter_design_patterns/constants.dart';
 import 'package:flutter_design_patterns/themes.dart';
 import 'package:flutter_design_patterns/widgets/design_patterns/adapter/adapter_example.dart';

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
 import 'package:flutter_design_patterns/constants.dart';
 import 'package:flutter_design_patterns/themes.dart';
 import 'package:flutter_design_patterns/widgets/design_patterns/adapter/adapter_example.dart';
@@ -84,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
               children: <Widget>[
            Text("By"),
            
-                Text("YAHYA ABU NADA \nMOHAMED ABU RAMADAN\n AHMED HAMDAN",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),textAlign: TextAlign.center,),
+                Text("YAHYA ABU NADA \n MOHAMED ABU RAMADAN\n  AHMED HAMDAN",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18),textAlign: TextAlign.center,),
               ],
             ), ],
         ),

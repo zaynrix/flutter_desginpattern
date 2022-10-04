@@ -6,7 +6,7 @@ import 'package:flutter_design_patterns/widgets/design_patterns/adapter/adapter_
 import 'package:flutter_design_patterns/widgets/design_patterns/decorator/decorator_example.dart';
 import 'package:flutter_design_patterns/widgets/design_patterns/facade/facade_example.dart';
 import 'package:flutter_design_patterns/widgets/design_patterns/singleton/singleton_example.dart';
-
+// commit2
 void main() => runApp(App());
 
 class App extends StatelessWidget {
